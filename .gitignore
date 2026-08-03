@@ -9,5 +9,5 @@ node_modules/
 **/loom-backend/
 
 **/school-backend/
-# **/school/
+**/school/
 loom-raw/
